@@ -1,3 +1,6 @@
+# operational-pressure-forecasting
+Estimate the future hourly operational load index for each series_id
+
 # Student Instructions
 
 This project is about multivariate time series forecasting with deep learning.
